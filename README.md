@@ -10,9 +10,7 @@
  <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="devGif.gif">
 
-   
-
-[![My Skills](https://skillicons.dev/icons?i=py,git)](https://skillicons.dev)
+  
 
  </div>
 <div>
