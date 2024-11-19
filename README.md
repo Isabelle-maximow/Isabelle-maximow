@@ -17,8 +17,7 @@
 
 ##
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73C36&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+me+chamo+Isabelle;Desenvolvedora+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=999&color=F73C36&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=446&lines=Ol%C3%A1%2C+me+chamo+Isabelle;Desenvolvedora+Python)](https://git.io/typing-svg)
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
   
