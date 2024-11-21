@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=999&color=F73C36&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=446&lines=Ol%C3%A1%2C+me+chamo+Isabelle;Desenvolvedora+Python)](https://git.io/typing-svg)
+<div align="center">  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=999&color=F73C36&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=446&lines=Ol%C3%A1%2C+me+chamo+Isabelle;Desenvolvedora+Python)](https://git.io/typing-svg)
+</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Isabelle-maximow&show_icons=true&count_private=true&hide_border=true&title_color=5d5fe8&icon_color=5d5fe8&text_color=c9d1d9&bg_color=0d1117" alt="Isabelle Maximow github stats" /> 
