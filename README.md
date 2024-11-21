@@ -25,8 +25,7 @@
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-### 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
 
 
   
