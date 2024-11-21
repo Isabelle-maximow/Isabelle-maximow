@@ -1,6 +1,4 @@
-<div align="center">  
-  <p[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=999&color=F73C36&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=446&lines=Ol%C3%A1%2C+me+chamo+Isabelle;Desenvolvedora+Python)](https://git.io/typing-svg)></p>>
-  </div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=4999&pause=1000&color=A13F23&background=3FFFF600&center=true&random=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Isabelle+%F0%9F%91%BE" alt="Typing SVG" /></a>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Isabelle-maximow&show_icons=true&count_private=true&hide_border=true&title_color=5d5fe8&icon_color=5d5fe8&text_color=c9d1d9&bg_color=0d1117" alt="Isabelle Maximow github stats" /> 
