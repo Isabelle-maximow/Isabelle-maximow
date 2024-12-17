@@ -40,6 +40,9 @@
   - 🎶 Adoro ouvir musicas e jogar videogame!
 </details>
 
+<details>
+  <summary>⌚ Atividade </summary>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Isabelle-maximow&theme=buefy-dark&border_radius=4.8&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=496&card_height=197&hide_total_contributions=true" alt="GitHub Streak" /></a>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
