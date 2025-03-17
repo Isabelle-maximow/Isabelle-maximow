@@ -7,7 +7,7 @@
 <p>
    Estudante iniciante em Desenvolvimento de Sistemas.
 
-  -  💻 Atualmente focando em Python. 
+  -  💻 Atualmente focando em Front-End. 
 </p>
 
 </p>
@@ -37,7 +37,7 @@
   
   - 💬 Tenho 18 anos, possuo nível básico de inglês e experiência com Python. Sou uma estudante em busca de oportunidades para iniciar minha carreira como Desenvolvedora Júnior.
   - 🎇 Possuo habilidades de comunicação, sou proativa e mantenho o foco em minhas atividades. Valorizo a organização e a responsabilidade em todos os projetos nos quais participo.
-  - 🎶 Adoro ouvir musicas e jogar videogame!
+  - 🎶 Adoro ouvir musicas e jogar xadrez!
 </details>
 
 <details>
