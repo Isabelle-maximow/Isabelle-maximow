@@ -7,7 +7,7 @@
 <p>
    Estudante iniciante em Desenvolvimento de Sistemas.
 
-  -  💻 Atualmente focando em Front-End. 
+  -  💻 Atualmente focando em Python. 
 </p>
 
 </p>
