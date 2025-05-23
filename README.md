@@ -54,14 +54,9 @@
   
   - 💬 Tenho 18 anos, possuo nível básico de inglês e experiência com Python. Sou uma estudante em busca de oportunidades para iniciar minha carreira como Desenvolvedora Júnior.
   - 🎇 Possuo habilidades de comunicação, sou proativa e mantenho o foco em minhas atividades. Valorizo a organização e a responsabilidade em todos os projetos nos quais participo.
-  - 🎶 Adoro ouvir musicas e jogar xadrez!
+  - 🎶 Ler é a minha paixão! Adoro ouvir musicas e jogar xadrez.
 </details>
 
-<details>
-  <summary>⌚ Atividade </summary>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Isabelle-maximow&theme=buefy-dark&border_radius=4.8&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=496&card_height=197&hide_total_contributions=true" alt="GitHub Streak" /></a>
-
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 
 
